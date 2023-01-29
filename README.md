@@ -1,5 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=90)
-
+<!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=90) -->
+# Hello World! 😎
 ## About me
 I am Kangjik Kim.   
 I've been graduated from INU, I majored in Computer Science   
