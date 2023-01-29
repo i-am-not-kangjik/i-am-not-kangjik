@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello World!&fontSize=90" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=90)
 
 ## About me
 I am Kangjik Kim.   
@@ -18,9 +18,10 @@ I am currently studying and looking for a job.
 <br>
 
 ## Interest 👀
+- Data Engineering
 - Web F/E
 - Web B/E
-- Data Engineering
+
 
 <br>
 
