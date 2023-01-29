@@ -27,8 +27,9 @@ I am currently studying and looking for a job.
 ### 💬 Communication Tools
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
 <!-- ## ✏️ Now -->
-<p align="center"> 
+<!-- <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/i-am-not-kangjik/count.svg" />
-</p>
+</p> -->
