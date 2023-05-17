@@ -12,8 +12,8 @@ I am currently studying and looking for a job.
 - (00.00 - 00.00) 경력 1
 - (19.00 - 19.00) 경력 2 -->
 ## Interest 👀
-- Web F/E
 - Web B/E
+- Web F/E
 - Data Engineering
 ## 💻 TECH STACK
 ### 🕓 Version Control
@@ -27,7 +27,6 @@ I am currently studying and looking for a job.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)   
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
