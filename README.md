@@ -7,14 +7,15 @@ I am currently studying and looking for a job.
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkqqkb@gmail.com)](mailto:rkqqkb@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i.am.not.kangjik/)](https://www.instagram.com/i.am.not.kangjik/) 
-[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-414141?style=flat-square&logo=tvtime&logoColor=white)](https://i-am-not-kangjik.github.io/)
+[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-414141?style=flat-square&logo=tvtime&logoColor=white)](https://morethan-kangjik.vercel.app/)
 <!-- ## Work experience 🤹‍♀️
 - (00.00 - 00.00) 경력 1
 - (19.00 - 19.00) 경력 2 -->
 ## Interest 👀
-- Web B/E
 - Web F/E
-- Data Engineering
+- Web B/E
+- Web Full Stack
+
 ## 💻 TECH STACK
 ### 🕓 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
