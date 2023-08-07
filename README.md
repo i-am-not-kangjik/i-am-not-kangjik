@@ -1,9 +1,13 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=90) -->
 # Hello World! 😎
 ## About me
-I am Kangjik Kim.   
-I've been graduated from INU, I majored in Computer Science   
-I am currently studying and looking for a job.
+👋 Hello! I'm Kangjik Kim, a Computer Science graduate.   
+I'm actively seeking opportunities in the tech industry.
+
+Let's build something incredible together! 🚀
+
+
+
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkqqkb@gmail.com)](mailto:rkqqkb@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i.am.not.kangjik/)](https://www.instagram.com/i.am.not.kangjik/) 
