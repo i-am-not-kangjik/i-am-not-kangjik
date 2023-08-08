@@ -1,7 +1,7 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=90) -->
 # Hello World! 😎
 ## About me
-👋 Hello! I'm Kangjik Kim, a Computer Science graduate.   
+👋 Hello! I'm Kangjik Kim, I majored in computer science.   
 I'm actively seeking opportunities in the tech industry.
 
 Let's build something incredible together! 🚀
