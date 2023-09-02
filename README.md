@@ -17,12 +17,12 @@ Let's build something incredible together! 🚀
 <!-- ## Work experience 🤹‍♀️
 - (00.00 - 00.00) 경력 1
 - (19.00 - 19.00) 경력 2 -->
-## Interest 👀
+<!-- ## Interest 👀
 - Web B/E
 - Web F/E
-- Web Full Stack
+- Web Full Stack -->
 
-## 💻 TECH STACK
+<!-- ## 💻 TECH STACK
 ### 🕓 Version Control
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)   
@@ -60,7 +60,7 @@ Let's build something incredible together! 🚀
 ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ### 💬 Communication Tools
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) -->
 
 
 <!-- ## ✏️ Now -->
