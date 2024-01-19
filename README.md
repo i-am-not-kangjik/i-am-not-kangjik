@@ -13,7 +13,7 @@ Let's build something incredible together! 🚀
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkqqkb@gmail.com)](mailto:rkqqkb@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i.am.not.kangjik/)](https://www.instagram.com/i.am.not.kangjik/) 
-[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-414141?style=flat-square&logo=tvtime&logoColor=white)](https://morethan-kangjik.vercel.app/)
+[![Blog Badge](https://img.shields.io/badge/Tech%20Blog-414141?style=flat-square&logo=tvtime&logoColor=white)](https://velog.io/@i-am-not-kangjik/posts/)
 <!-- ## Work experience 🤹‍♀️
 - (00.00 - 00.00) 경력 1
 - (19.00 - 19.00) 경력 2 -->
