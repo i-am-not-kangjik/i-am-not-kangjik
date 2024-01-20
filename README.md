@@ -1,6 +1,8 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=HelloWorld!&fontSize=90) -->
 # Hello World! 😎
 ## About me
+[![Blog Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EA%B0%95%EC%A7%81-%EA%B9%80-43bb682a5/)   
+   
 👋 Hello! I'm Kangjik Kim
 -  Computer Science Major
 -  First-year Backend Developer
@@ -14,6 +16,8 @@ Let's build something incredible together! 🚀
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rkqqkb@gmail.com)](mailto:rkqqkb@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i.am.not.kangjik/)](https://www.instagram.com/i.am.not.kangjik/) 
 [![Blog Badge](https://img.shields.io/badge/Tech%20Blog-414141?style=flat-square&logo=tvtime&logoColor=white)](https://velog.io/@i-am-not-kangjik/posts/)
+
+
 <!-- ## Work experience 🤹‍♀️
 - (00.00 - 00.00) 경력 1
 - (19.00 - 19.00) 경력 2 -->
