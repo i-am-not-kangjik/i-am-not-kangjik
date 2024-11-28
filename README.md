@@ -5,7 +5,7 @@
    
 👋 Hello! I'm Kangjik Kim
 -  Computer Science Major
--  First-year Backend Developer
+-  Junior Full-Stack Developer with Over 1 Year of Experience
 - I am actively learning and growing in my field.
 
 Let's build something incredible together! 🚀
