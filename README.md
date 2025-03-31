@@ -17,6 +17,15 @@ Let's build something incredible together! 🚀
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/i.am.not.kangjik/)](https://www.instagram.com/i.am.not.kangjik/) 
 [![Blog Badge](https://img.shields.io/badge/Tech%20Blog-414141?style=flat-square&logo=tvtime&logoColor=white)](https://velog.io/@i-am-not-kangjik/posts/)
 
+---
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=i-am-not-kangjik&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/i-am-not-kangjik"
+  width="600"
+  height="300"
+/>
+</a>
 
 <!-- ## Work experience 🤹‍♀️
 - (00.00 - 00.00) 경력 1
